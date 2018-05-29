@@ -1,0 +1,1 @@
+**Example - interactive checkboxes to injecting to pdf file**
